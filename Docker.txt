@@ -3,7 +3,7 @@
 
 2) Create a Docker hub account 
 	Login to your hub account  in the host machine 
-		docker login 
+		docker login. 
 
 3) Pull and try a sample image 
 	a. docker pull ubuntu 
